@@ -1,5 +1,7 @@
 # HairColorChange
 
+<img src="testresult.gif" />
+
 Change HairColor with deep learning model.
 it provides both Swift and Objective-c.
 This engine detects three lines. (Heard Line, Life Line, Heart Line)
