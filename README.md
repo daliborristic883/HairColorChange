@@ -7,7 +7,7 @@ it provides both Swift and Objective-c.
 This engine detects three lines. (Heard Line, Life Line, Heart Line)
 
 How to use this?
-1. Copy/Past two frameworks.
+1. Copy/Paste two frameworks.
 - opencv2.framework.
 - HairChange.framework
 
